@@ -66,7 +66,7 @@ Using Power BI's **Performance Analyzer**, each visual was examined to break dow
 ## 📸 Screenshots 
 
 * Before Optimization
-  
+  Performance Analizer_Before Optimization
 * Performance Analyzer Breakdown
   Performance%20Analizer_Before%20Optimization.png
 * After Optimization
