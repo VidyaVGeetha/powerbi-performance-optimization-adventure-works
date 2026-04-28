@@ -70,7 +70,10 @@ Using Power BI's **Performance Analyzer**, each visual was examined to break dow
 ---
 
 # Performance Analyzer - After Optimization
+<img width="799" height="814" alt="image" src="https://github.com/user-attachments/assets/1e1c77ac-3771-47eb-8376-f0b953070da5" />
 
+---
+# Dashboard
 ![Test](Dashboard_Screenshot.png)
 
 ---
