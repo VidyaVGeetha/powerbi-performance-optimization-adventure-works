@@ -64,8 +64,12 @@ Using Power BI's **Performance Analyzer**, each visual was examined to break dow
 ---
 
 ## 📸 Screenshots 
+# Performance Analyzer - Before Optimization
 <img width="1054" height="826" alt="image" src="https://github.com/user-attachments/assets/5d34c3c7-fc8a-4f36-87f8-dfc8887d887a" />
 
+---
+
+# Performance Analyzer - After Optimization
 
 ![Test](Dashboard_Screenshot.png)
 
